@@ -1,0 +1,665 @@
+/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x
+/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x
+/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x
+/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x
+/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x
+/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x
+/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x
+/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x
+/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x
+/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x
+/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x
+/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x
+/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x
+/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x
+/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x
+/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x
+/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x
+/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x
+/topk-AgeRanges 3 Albania COVID-19 05-08-2004 05-10-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2021
+/numPatientAdmissions DENGUE 09-11-2002 11-12-2021
+/searchPatientRecord 2Ua
+/numPatientDischarges COVID-19 01-01-2000 01-01-2021
+/searchPatientRecord 055
+/diseaseFrequency SARS-1 10-02-2001 23-06-2020
+/diseaseFrequency COVID-19 10-06-2003 23-06-2006 Tajikistan
+/numPatientDischarges SARS-1 01-01-2000 01-01-2021
+/topk-AgeRanges 4 Angola H1N1 01-02-2003 03-11-2005
+/searchPatientRecord 0qs
+/numPatientAdmissions SARS-1 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2001 23-06-2006
+/numPatientDischarges EBOLA 01-01-2000 01-01-2021
+/searchPatientRecord 0ah
+/numPatientAdmissions RABIES 09-11-2002 11-12-2021
+/diseaseFrequency H1N1 10-05-2010 23-06-2020 Afganistan
+/topk-AgeRanges 2 Algeria COVID-19 05-08-2004 05-10-2009
+/numPatientDischarges HIV 01-01-2000 01-01-2021
+/searchPatientRecord 0x
